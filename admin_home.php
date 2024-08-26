@@ -9,7 +9,7 @@
     <link rel="stylesheet" href="style_admin_home.css" />
     <link herf="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
 
-    <title>ADMIN Home page</title>
+    <title>Admin Home Page</title>
   </head>
   <body>
     <div class="container">
